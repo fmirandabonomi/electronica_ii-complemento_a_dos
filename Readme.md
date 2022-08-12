@@ -16,6 +16,10 @@ https://github.com/fmirandabonomi/electronica_ii-complemento_a_dos.git
 ```
 mingw32-make run
 ```
+o en linux
+```
+  make run
+```
 
 La implementación que debes completar se encuentra en `design.vhd`
 
