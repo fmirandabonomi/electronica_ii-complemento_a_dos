@@ -14,8 +14,7 @@ https://github.com/fmirandabonomi/electronica_ii-complemento_a_dos.git
 
 - Para ejecutar el banco de pruebas en Visual Studio Code abre una consola con _Ctrl+ñ_ e introduce los siguientes comandos
 ```
-ghdl -a *.vhd
-ghdl -r comp_dos_tb
+mingw32-make run
 ```
 
 La implementación que debes completar se encuentra en `design.vhd`
