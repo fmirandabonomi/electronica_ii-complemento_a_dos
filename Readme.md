@@ -9,7 +9,7 @@ Instrucciones:
 
 - Para clonar el repositorio, en Visual Studio Code presiona _Ctrl+Mayus+P_, escribe `git:clone`, presiona enter. Pega en el cuadro la dirección dada a continuación y presiona enter.
 ```
-
+https://github.com/fmirandabonomi/electronica_ii-complemento_a_dos.git
 ```
 
 - Para ejecutar el banco de pruebas en Visual Studio Code abre una consola con _Ctrl+ñ_ e introduce los siguientes comandos
