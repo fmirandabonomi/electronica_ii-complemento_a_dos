@@ -1,4 +1,4 @@
-# Práctico 2 - Electrónica II 2022 para ingeniería electrónica - Códificador complemento a dos
+# Práctico 2 - Electrónica II 2022 para ingeniería electrónica - Codificador complemento a dos
 
 En este práctico debes completar un componente que genera la representación en complemento a dos de un número dado con su signo. Si el número es mayor que el máximo representable debe generar el código correspondiente al máximo. Si el número es menor que el mínimo representable debe generar el código correspondiente al mínimo.
 
