@@ -12,14 +12,12 @@ Instrucciones:
 https://github.com/fmirandabonomi/electronica_ii-complemento_a_dos.git
 ```
 
-- Para ejecutar el banco de pruebas en Visual Studio Code abre una consola con _Ctrl+ñ_ e introduce los siguientes comandos
-```
-mingw32-make
-```
-o en linux
+- Para ejecutar el banco de pruebas en Visual Studio Code abre una consola con _Ctrl+ñ_ e introduce el siguiente comando
 ```
   make
 ```
+
+- Para eliminar los archivos generados por el simulador usa el comando `make clean`
 
 La implementación que debes completar se encuentra en `design.vhd`
 
